@@ -1,22 +1,44 @@
 ---
 title: My therapist
 publishDate: 2023-05-05 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/mytherapist1.jpg.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  My Therapist est une plateforme qui offre aux patients un accès facile à des psychologues qualifiés et spécialisés
+
 tags:
   - Design
   - Dev
   - Branding
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+My Therapist c’est quoi ?
+<a href="https://my-therapist.netlify.app/">My Therapist</a>
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Psychologue du travail, psychothérapeute, psychanalyste, psychologue clinicien... Que
+savons-nous en matière de psychologie et quelle spécialité pourrait correspondre à un maux
+spécifique ?
+Le monde de la psychologie est un vaste domaine , et beaucoup de personnes
+peuvent se sentir perdues face aux nombreuses spécialités qui peuvent être proposées.
+Pourtant chaque spécialité répond à un besoin spécifique, mais cela est très souvent ignoré
+par les potentiels patients. Nous avons donc pensé à un site qui faciliterait l’accès à ce genre
+de soins.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+L’innovation technologique est en constante évolution, incluant internet et ses sites web.
+De ce fait , on peut aujourd’hui créer un nombre presque infini de sites ou d’applicationsqui nous
+semblerait nécessaires et bénéfiques pour la société.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nous avons donc eu l’idée de remédier aux besoins de l’homme face à ses problèmes, tant
+bien sociale qu’émotionnelle,grâce à un site où l’onpeut avoir un psychologue « sur mesure » :
+naissance de My Therapist.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+My Therapist est une plateforme qui offre aux patients un accès facile à des psychologues
+qualifiés et spécialisés. Grâce à un petit sondage en ligne, le patient peut définir ses besoins
+en matière de suivi thérapeutique en moins de 3 minutes.
+Le site lui proposera une liste de professionnel selon ses critères grâce à un algorithme que nous avons mis en place.
+Le patient choisira ensuite le professionnel qui lui conviendra le mieux parmi la liste proposée
+et pourra prendre rendez-vous en seulement quelques clics.
+
+Ainsi trouver le psychologue qui convient deviendra plus facile et beaucoup plus accessible.
+Notre objectif est de proposer des psychologues adaptés selon leurs spécialités aux besoins
+de chaque utilisateur en seulement quelques minutes et cela via une application web.
